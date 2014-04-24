@@ -1,0 +1,23 @@
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>An electronic translation of an early 15th-century manuscript of ...</title>
+      ...
+    </titleStmt>
+    ...
+  </fileDesc>
+  ...
+</teiHeader>
+<text>
+<body>
+
+<div type="chapter" n="1">
+  <milestone n="1-0" ed="SHF" unit="chapter"/>
+  <pb n="1 r"/><cb n="A"/><head type="rubric">Here begin the chronicles as recorded by
+  master <name type="person">Jehan Froissart</name>, which speak <lb/>of the recent wars
+  between <name type="place">France</name>, <name type="place">England</name>, ...</head>
+  <p><lb/><milestone type="paragraph"/><hi rend="6 lines">I</hi>n order that the <lb/>
+  honourable deeds <lb/>and ventures accomplished <lb/>by arms, which took <lb/>place...</p>
+</div>
+</body>
+</text>
